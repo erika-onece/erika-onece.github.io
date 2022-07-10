@@ -22,8 +22,7 @@
     $(function(){
       $(".header-bg").backstretch([
         "img/img_01.jpg",
-        "img/img_02.jpg",
-        "img/img_03.jpg"
+        "img/img_02.jpg"
       ],{duration: 5000, fade: 2000});
     });
     </script>
@@ -37,7 +36,8 @@
               slidesToShow: 1,
               adaptiveHeight: true,
               autoplay: true,
-              autoplaySpeed: 3000
+              autoplaySpeed: 3000,
+              arrows: false,
           });
       });
   </script>
@@ -56,6 +56,8 @@
 </head>
 <body>
   <div class="header-bg"> 
+    <input type="checkbox" id="menu-btn-check">
+    <label for="menu-btn-check" class="menu-btn"><span></span></label>
     <header class="header">
       <h1><a href="#"><i class="far fa-hourglass"></i>ENCHANT</a></h1>
       <nav>
@@ -101,7 +103,7 @@
           <p><img src="img/img_03.jpg" alt=""></p>
         </div>
       </div>
-    </div>p@:p
+    </div>
   </section>
   <section id="sec3" class="section">
     <h2>スタイルギャラリー</h2>
@@ -117,17 +119,17 @@
   <section id="sec4" class="section">
     <h2>人気商品ランキング</h2>
     <ul class="flex-box ranking" >
-      <li><img src="img-2/fashion_6.jpg" alt=""></li>
-      <li><img src="img-2/fasion_7.jpg" alt=""></li>
       <li><img src="img-2/fashion_15.jpg" alt=""></li>
-      <li><img src="img-2/fasion_9.jpg" alt=""></li>
+      <li><img src="img-2/fasion_7.jpg" alt=""></li>
       <li><img src="img-2/fashion_11.jpg" alt=""></li>
+      <li><img src="img-2/fasion_9.jpg" alt=""></li>
+      <li><img src="img-2/fashion_10.jpg" alt=""></li>
       <li><img src="img-2/fasion_14.jpg" alt=""></li>
     </ul>
   </section>
   <section id="sec5" class="section">
     <h2>お問い合わせ</h2>
-    <form action="samle.php" method="POST">
+    <form action="#" method="POST" class="question-form">
       <table>
         <tr>
           <th>お　名　前</th>
