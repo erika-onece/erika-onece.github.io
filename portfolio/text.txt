@@ -1,0 +1,101 @@
+White Stoneのポートフォリオサイトです
+PORTFOLIO
+
+Withe Stone PORTFOLIO
+
+HOME
+WORKS
+ABOUT
+SKILL
+CONTACT
+
+WORKS
+
+Dummy Title1①
+Dummy Text Dummy Text Dummy Text Dummy Text
+Link
+
+Dummy Title②
+Dummy Text Dummy Text Dummy Text Dummy Text
+Link
+
+Dummy Title③
+Dummy Text Dummy Text Dummy Text Dummy Text
+Link
+
+Dummy Title④
+Dummy Text Dummy Text Dummy Text Dummy Text
+Link
+
+Dummy Title⑤
+Dummy Text Dummy Text Dummy Text Dummy Text
+Link
+
+Dummy Title⑥
+Dummy Text Dummy Text Dummy Text Dummy Text
+Link
+
+Dummy Title⑦
+Dummy Text Dummy Text Dummy Text Dummy Text
+Link
+
+Dummy Title⑧
+Dummy Text Dummy Text Dummy Text Dummy Text
+Link
+
+Dummy Title⑨
+Dummy Text Dummy Text Dummy Text Dummy Text
+Link
+
+Dummy Title⑩
+Dummy Text Dummy Text Dummy Text Dummy Text
+Link
+
+Dummy Title⑪
+Dummy Text Dummy Text Dummy Text Dummy Text
+Lin
+
+Dummy Title⑫
+Dummy Text Dummy Text Dummy Text Dummy Text
+Link
+
+ABOUT
+
+White Stone
+
+Dummy Text--Dummy Text--Dummy Text--Dummy Text--Dummy Text--Dummy Text--Dummy Text--Dummy Text--Dummy Text--Dummy Text--Dummy Text--Dummy Text--Dummy Text--Dummy Text--Dummy Text--Dummy Text--Dummy Text--Dummy Text--Dummy Text--Dummy Text--Dummy Text--Dummy Text--Dummy Text--Dummy Text--Dummy Text--Dummy Text--Dummy Text--Dummy Text--Dummy Text--Dummy Text--Dummy Text--Dummy Text--Dummy Text--Dummy Text--Dummy Text--Dummy Text--Dummy Text--Dummy Text--Dummy Text--Dummy Text-
+
+SKILL
+
+Illustrator
+
+DummyText DummyText DummyText DummyText DummyText DummyText DummyText DummyText DummyText DummyText DummyText
+
+Photoshop
+
+DummyText DummyText DummyText DummyText DummyText DummyText DummyText DummyText DummyText DummyText DummyText
+
+HTML&CSS
+
+DummyText DummyText DummyText DummyText DummyText DummyText DummyText DummyText DummyText DummyText DummyText
+
+JavaScript
+
+DummyText DummyText DummyText DummyText DummyText DummyText DummyText DummyText DummyText DummyText DummyText
+
+WordPress
+
+DummyText DummyText DummyText DummyText DummyText DummyText DummyText DummyText DummyText DummyText DummyText
+
+CONTACT
+
+FaceBook
+Twitter
+Instagram
+Google Form
+
+dummy@dummydummy.com
+
+© 2019 WHITE STONE PORTFOLIO
+
+

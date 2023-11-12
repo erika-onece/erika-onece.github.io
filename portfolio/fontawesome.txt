@@ -1,0 +1,28 @@
+<!--FontAwesome-->
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+
+<!--FontAwesome animation-->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome-animation/0.2.1/font-awesome-animation.css">
+
+<i class="far fa-gem"></i>
+<i class="fas fa-angle-down"></i>
+
+<i class="fas fa-home"></i>
+<i class="fas fa-edit"></i>
+<i class="far fa-address-card"></i>
+<i class="fas fa-chart-area"></i>
+<i class="far fa-envelope"></i>
+
+<i class="fab fa-adobe"></i>
+<i class="fab fa-adobe"></i>
+<i class="far fa-file-code"></i>
+<i class="fab fa-js"></i>
+<i class="fas fa-star"></i>
+
+<i class="fas fa-star"></i>
+<i class="fas fa-star-half"></i>
+
+<i class="fab fa-facebook-f faa-wrench animated-hover">
+<i class="fab fa-twitter faa-wrench animated-hover"></i>
+<i class="fab fa-instagram faa-wrench animated-hover"></i>
+<i class="far fa-list-alt faa-wrench animated-hover"></i>
